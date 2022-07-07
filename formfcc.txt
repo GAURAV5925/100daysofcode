@@ -1,4 +1,4 @@
-** start of undefine**
+** start of undefined**
 
 <!DOCTYPE html>
 <html>
